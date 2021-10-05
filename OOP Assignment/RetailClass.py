@@ -12,6 +12,7 @@ class RetailItem:
     #def set_price(self, price):
         #self.__price = price
 
+
     def get_desc(self):
         return self.__desc
     def get_units(self):
